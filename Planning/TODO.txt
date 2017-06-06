@@ -1,7 +1,11 @@
 PLANOWANIE:
-- Poszukać rozwiązania dla mikrokontrolera
-- Poszukać rozwiązania do regulacji prądu dla ogniwa peltiera
+v Poszukać rozwiązania dla mikrokontrolera
+
 
 Środowisko:
-- skonfigurować konto na GitHubie
+v skonfigurować konto na GitHubie
 - skonfigurować eclipsa do pracy z stm-em
+
+Elektronika:
+- poszukać termometrów na ADC/I2C
+- Poszukać rozwiązania do regulacji prądu dla ogniwa peltiera
