@@ -1,11 +1,11 @@
 PLANOWANIE:
-v Poszukać rozwiązania dla mikrokontrolera
+v Search for proper microcontroller 
+	STM8 choosen
 
+Enviroment:
+v configure gitHub account
+- configure enviroment for stm8 on linux using eclipse
 
-Środowisko:
-v skonfigurować konto na GitHubie
-- skonfigurować eclipsa do pracy z stm-em
-
-Elektronika:
-- poszukać termometrów na ADC/I2C
-- Poszukać rozwiązania do regulacji prądu dla ogniwa peltiera
+Hardware:
+- search for thermal sensor on ADC
+v Solution for voltage regulation without thermal loss.
